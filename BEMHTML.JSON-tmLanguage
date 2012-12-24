@@ -1,0 +1,13 @@
+{
+    "name": "BEMHTML syntax",
+    "scopeName": "source.bemhtml",
+    "fileTypes": ["bemhtml"],
+    "patterns": [
+        {
+            "match": "block",
+            "name": "bemhtml.block.def",
+            "comment": "bemhtml block definition"
+        }
+    ],
+    "uuid": "cbf9252e-37c0-4cd9-a8fa-a9c57e1ffcb4"
+}
