@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>bemhtml</string>
+		<string>xjst</string>
 	</array>
 	<key>name</key>
 	<string>BEMHTML</string>
